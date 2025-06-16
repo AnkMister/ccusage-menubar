@@ -17,7 +17,7 @@ A simple SwiftBar plugin that shows your Claude Code usage in the macOS menu bar
 Run this one-liner in your terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ankur/ccusage-menubar/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/AnkMister/ccusage-menubar/main/install.sh | bash
 ```
 
 This will:
@@ -41,7 +41,7 @@ If you prefer to install manually:
 
 3. **Download the plugin**:
    ```bash
-   curl -fsSL https://raw.githubusercontent.com/ankur/ccusage-menubar/main/ccusage.30m.sh -o ~/Documents/SwiftBarPlugins/ccusage.30m.sh
+   curl -fsSL https://raw.githubusercontent.com/AnkMister/ccusage-menubar/main/ccusage.30m.sh -o ~/Documents/SwiftBarPlugins/ccusage.30m.sh
    chmod +x ~/Documents/SwiftBarPlugins/ccusage.30m.sh
    ```
 

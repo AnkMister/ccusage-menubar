@@ -9,7 +9,7 @@
 
 # Version and update info
 CURRENT_VERSION="1.1.0"
-GITHUB_REPO="ankur/ccusage-menubar"
+GITHUB_REPO="AnkMister/ccusage-menubar"
 UPDATE_CHECK_FILE="/tmp/ccusage_last_update_check"
 
 # Run ccusage and capture output

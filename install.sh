@@ -13,7 +13,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Script info
-REPO_URL="https://github.com/ankur/ccusage-menubar"
+REPO_URL="https://github.com/AnkMister/ccusage-menubar"
 PLUGIN_NAME="ccusage.30m.sh"
 VERSION="1.1.0"
 
@@ -140,7 +140,7 @@ if [ -f "./ccusage.30m.sh" ]; then
 else
     # Download from GitHub
     echo -e "${BLUE}Downloading plugin from GitHub...${NC}"
-    curl -fsSL "https://raw.githubusercontent.com/ankur/ccusage-menubar/main/ccusage.30m.sh" -o "$SWIFTBAR_PLUGIN_DIR/$PLUGIN_NAME"
+    curl -fsSL "https://raw.githubusercontent.com/AnkMister/ccusage-menubar/main/ccusage.30m.sh" -o "$SWIFTBAR_PLUGIN_DIR/$PLUGIN_NAME"
 fi
 
 # Make executable
