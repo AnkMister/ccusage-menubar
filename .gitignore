@@ -37,3 +37,15 @@ yarn-error.log*
 *.swp
 *.swo
 *~
+
+# Test files
+test-*.log
+*.test.sh
+
+# Backup files
+*.bak
+*.backup
+
+# Local development
+.env
+.env.local
